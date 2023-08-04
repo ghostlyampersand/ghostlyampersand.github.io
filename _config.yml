@@ -19,15 +19,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: defenestrated.ampersand@gmail.com
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
+  facebook: 100094580277146
+  flickr: 198787865@N04
+  github: ghostlyampersand
   instagram: annoying_ghostly_menace
   linkedin:
-  pinterest:
+  pinterest: annoying_menace
   rss: rss # just type anything here for a working RSS icon
   twitter: annoying_menace
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/22268813/ghost # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
