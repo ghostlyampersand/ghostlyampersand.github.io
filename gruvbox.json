@@ -22,7 +22,7 @@
 
     "BACKGROUND_ACCENT": [ "#b57614" ],
 
-    "BACKGROUND_MENTIONED": [ "#d65d0e17" ],
+    "BACKGROUND_MENTIONED": [ "#d65d0e" ],
 
     "BACKGROUND_MENTIONED_HOVER": [ "#bdae93" ],
 
@@ -236,7 +236,7 @@
 
     "GREEN_900": "#689d6a",
 
-    "GUILD_BOOSTING_PINK": "#f5c2e7",
+    "GUILD_BOOSTING_PINK": "#ebdbb2",
 
     "GUILD_BOOSTING_PURPLE": "#fabd2f",
 
@@ -272,7 +272,7 @@
 
     "RED_700": "#d79921",
 
-    "YELLOW_100": "#",
+    "YELLOW_100": "#d65d0e",
 
     "YELLOW_130": "#d65d0e",
 
@@ -336,25 +336,25 @@
 
     "customOverlays": true,
 
-    "mentionLineColor": "#d65d0e",
+    "mentionLineColor": "#85876D",
 
     "icons":{
 
-      "ic_radio_circle_checked": "#b57614",
+      "ic_radio_circle_checked": "#85876D",
 
-      "ic_radio_circle_checked__overlay": "#fbf1c7",
+      "ic_radio_circle_checked__overlay": "#85876D",
 
-      "ic_radio_square_24px": "#b57614",
+      "ic_radio_square_24px": "#85876D",
 
-      "ic_radio_square_checked_24px": "#b57614",
+      "ic_radio_square_checked_24px": "#85876D",
 
-      "ic_radio_square_checked_24px__overlay": "#fbf1c7",
+      "ic_radio_square_checked_24px__overlay": "#85876D",
 
-      "ic_selection_checked_24px": "#b57614",
+      "ic_selection_checked_24px": "#85876D",
 
-      "ic_selection_checked_24px__overlay": "#fbf1c7",
+      "ic_selection_checked_24px__overlay": "#85876D",
 
-      "img_guild_folder": "#b57614",
+      "img_guild_folder": "#85876D",
 
       "StatusMobileOnline": "#689d6a",
 
