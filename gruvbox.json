@@ -2,7 +2,7 @@
 
   "name": "Gruvbox",
 
-  "description": "Adp",
+  "description": "Adaptation of Gruvbox Yellow from Vendetta to Bunny",
 
   "spec": "2",
 
@@ -10,7 +10,7 @@
 
     {
 
-      "name": "Catppuccin"
+      "name": "Taki Shiwa and Ira Acris"
 
     }
 
@@ -18,13 +18,13 @@
 
   "semanticColors": {
 
-    "ANDROID_RIPPLE": [ "#6c7086" ],
+    "ANDROID_RIPPLE": [ "#bdae93" ],
 
     "BACKGROUND_ACCENT": [ "#b57614" ],
 
     "BACKGROUND_MENTIONED": [ "#d65d0e17" ],
 
-    "BACKGROUND_MENTIONED_HOVER": [ "#9399b2" ],
+    "BACKGROUND_MENTIONED_HOVER": [ "#bdae93" ],
 
     "BACKGROUND_MODIFIER_ACCENT": [ "#3C3836" ],
 
@@ -60,25 +60,25 @@
 
     "CARD_SECONDARY_BG": [ "#fbf1c7" ],
 
-    "CHANNEL_ICON": [ "#9399b2" ],
+    "CHANNEL_ICON": [ "#bdae93" ],
 
-    "CHANNELS_DEFAULT": [ "#a6adc8" ],
+    "CHANNELS_DEFAULT": [ "#bdae93" ],
 
     "CHAT_BACKGROUND": [ "#fbf1c7" ],
 
     "HEADER_PRIMARY": [ "#fbf1c7" ],
 
-    "HEADER_SECONDARY": [ "#bac2de" ],
+    "HEADER_SECONDARY": [ "#bdae93" ],
 
     "INPUT_BACKGROUND": [ "#3C3836" ],
 
     "INTERACTIVE_ACTIVE": [ "#fbf1c7" ],
 
-    "INTERACTIVE_HOVER": [ "#9399b2" ],
+    "INTERACTIVE_HOVER": [ "#bdae93" ],
 
-    "INTERACTIVE_MUTED": [ "#a6adc8" ],
+    "INTERACTIVE_MUTED": [ "#bdae93" ],
 
-    "INTERACTIVE_NORMAL": [ "#9399b2" ],
+    "INTERACTIVE_NORMAL": [ "#bdae93" ],
 
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#3C3836" ],
 
@@ -94,13 +94,13 @@
 
     "TEXT_LINK": [ "#b57614" ],
 
-    "TEXT_MUTED": [ "#a6adc8" ],
+    "TEXT_MUTED": [ "#bdae93" ],
 
     "TEXT_NORMAL": [ "#fbf1c7" ],
 
     "TEXT_PRIMARY": [ "#fbf1c7" ],
 
-    "THREAD_CHANNEL_SPINE": [ "#585b70" ]
+    "THREAD_CHANNEL_SPINE": [ "#282828" ]
 
   },
 
@@ -164,9 +164,9 @@
 
     "PRIMARY_700": "#3C3836",
 
-    "PRIMARY_800": "#1d2021",
+    "PRIMARY_800": "#282828",
 
-    "PLUM_10": "#9399b2",
+    "PLUM_10": "#bdae93",
 
     "PLUM_15": "#3c3836",
 
@@ -272,7 +272,7 @@
 
     "RED_700": "#d79921",
 
-    "YELLOW_100": "#d65d0e",
+    "YELLOW_100": "#",
 
     "YELLOW_130": "#d65d0e",
 
