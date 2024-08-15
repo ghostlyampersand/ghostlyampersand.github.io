@@ -56,9 +56,9 @@
 
     "EMBED_BACKGROUND": [ "#3C3836" ],
 
-    "CARD_PRIMARY_BG": [ "#fbf1c7" ],
+    "CARD_PRIMARY_BG": [ "#000000" ],
 
-    "CARD_SECONDARY_BG": [ "#fbf1c7" ],
+    "CARD_SECONDARY_BG": [ "#000000" ],
 
     "CHANNEL_ICON": [ "#bdae93" ],
 
