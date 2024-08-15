@@ -56,9 +56,9 @@
 
     "EMBED_BACKGROUND": [ "#3C3836" ],
 
-    "CARD_PRIMARY_BG": [ "#000000" ],
+    "CARD_PRIMARY_BG": [ "#fbf1c7" ],
 
-    "CARD_SECONDARY_BG": [ "#000000" ],
+    "CARD_SECONDARY_BG": [ "#fbf1c7" ],
 
     "CHANNEL_ICON": [ "#bdae93" ],
 
@@ -86,9 +86,9 @@
 
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#3C3836" ],
 
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#000000" ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#fbf1c7" ],
 
-    "REDESIGN_CHANNEL_NAME_TEXT": [ "#000000" ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [ "#fbf1c7" ],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#3C3836" ],
 
@@ -373,4 +373,3 @@
   }
 
 }
-
