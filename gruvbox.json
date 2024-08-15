@@ -34,13 +34,13 @@
 
     "BACKGROUND_MODIFIER_SELECTED": [ "#3C3836" ],
 
-    "BACKGROUND_MOBILE_PRIMARY": [ "#fbf1c7" ],
+    "BACKGROUND_MOBILE_PRIMARY": [ "#000000" ],
 
     "BACKGROUND_MOBILE_SECONDARY": [ "#3C3836" ],
 
     "BACKGROUND_NESTED_FLOATING": [ "#3C3836" ],
 
-    "BACKGROUND_PRIMARY": [ "#fbf1c7" ],
+    "BACKGROUND_PRIMARY": [ "#000000" ],
 
     "BACKGROUND_SECONDARY": [ "#3C3836" ],
 
@@ -48,7 +48,7 @@
 
     "BACKGROUND_TERTIARY": [ "#3C3836" ],
 
-    "BG_BASE_PRIMARY": [ "#fbf1c7" ],
+    "BG_BASE_PRIMARY": [ "#000000" ],
 
     "BG_BASE_SECONDARY": [ "#3C3836" ],
 
@@ -56,9 +56,9 @@
 
     "EMBED_BACKGROUND": [ "#3C3836" ],
 
-    "CARD_PRIMARY_BG": [ "#fbf1c7" ],
+    "CARD_PRIMARY_BG": [ "#000000" ],
 
-    "CARD_SECONDARY_BG": [ "#fbf1c7" ],
+    "CARD_SECONDARY_BG": [ "#000000" ],
 
     "CHANNEL_ICON": [ "#bdae93" ],
 
