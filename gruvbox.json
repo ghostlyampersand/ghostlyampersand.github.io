@@ -64,9 +64,9 @@
 
     "CHANNELS_DEFAULT": [ "#bdae93" ],
 
-    "CHAT_BACKGROUND": [ "#fbf1c7" ],
+    "CHAT_BACKGROUND": [ "#000000" ],
 
-    "HEADER_PRIMARY": [ "#fbf1c7" ],
+    "HEADER_PRIMARY": [ "#000000" ],
 
     "HEADER_SECONDARY": [ "#bdae93" ],
 
@@ -100,7 +100,7 @@
 
     "TEXT_PRIMARY": [ "#fbf1c7" ],
 
-    "THREAD_CHANNEL_SPINE": [ "#FFFFFF" ]
+    "THREAD_CHANNEL_SPINE": [ "#282828" ]
 
   },
 
