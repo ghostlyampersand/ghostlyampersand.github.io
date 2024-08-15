@@ -18,7 +18,7 @@
 
   "semanticColors": {
 
-    "ANDROID_RIPPLE": [ "#000000" ],
+    "ANDROID_RIPPLE": [ "#bdae93" ],
 
     "BACKGROUND_ACCENT": [ "#b57614" ],
 
@@ -100,7 +100,7 @@
 
     "TEXT_PRIMARY": [ "#fbf1c7" ],
 
-    "THREAD_CHANNEL_SPINE": [ "#282828" ]
+    "THREAD_CHANNEL_SPINE": [ "#FFFFFF" ]
 
   },
 
