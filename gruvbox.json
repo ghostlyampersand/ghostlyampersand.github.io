@@ -72,7 +72,7 @@
 
     "INPUT_BACKGROUND": [ "#3C3836" ],
 
-    "INTERACTIVE_ACTIVE": [ "#fbf1c7" ],
+    "INTERACTIVE_ACTIVE": [ "#3C3836" ],
 
     "INTERACTIVE_HOVER": [ "#bdae93" ],
 
