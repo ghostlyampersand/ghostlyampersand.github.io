@@ -34,7 +34,7 @@
 
     "BACKGROUND_MODIFIER_SELECTED": [ "#3C3836" ],
 
-    "BACKGROUND_MOBILE_PRIMARY": [ "#000000" ],
+    "BACKGROUND_MOBILE_PRIMARY": [ "#fbf1c7" ],
 
     "BACKGROUND_MOBILE_SECONDARY": [ "#3C3836" ],
 
@@ -96,9 +96,9 @@
 
     "TEXT_MUTED": [ "#bdae93" ],
 
-    "TEXT_NORMAL": [ "#fbf1c7" ],
+    "TEXT_NORMAL": [ "#000000" ],
 
-    "TEXT_PRIMARY": [ "#fbf1c7" ],
+    "TEXT_PRIMARY": [ "#000000" ],
 
     "THREAD_CHANNEL_SPINE": [ "#282828" ]
 
