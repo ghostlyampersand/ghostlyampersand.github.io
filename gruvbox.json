@@ -156,7 +156,7 @@
 
     "PRIMARY_500": "#bdae93",
 
-    "PRIMARY_600": "#bdae93",
+    "PRIMARY_600": "#000000",
 
     "PRIMARY_630": "#3C3836",
 
@@ -324,9 +324,9 @@
 
     "YELLOW_900": "#d65d0e",
 
-    "WHITE": "#bdae93",
+    "WHITE": "#3c3836",
 
-    "WHITE_500": "#3c3836"
+    "WHITE_500": "#FFFFFF"
 
   },
 
