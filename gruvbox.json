@@ -22,7 +22,7 @@
 
     "BACKGROUND_ACCENT": [ "#b57614" ],
 
-    "BACKGROUND_MENTIONED": [ "#d65d0e" ],
+    "BACKGROUND_MENTIONED": [ "#282828" ],
 
     "BACKGROUND_MENTIONED_HOVER": [ "#bdae93" ],
 
